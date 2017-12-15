@@ -5,3 +5,9 @@ CNN Implementation:
 - Test on video
 - Try to think of an extension
 - Bonus point for video recording
+
+GoodResults:
+Model: VGG-like
+  - Adagrad: LR = lr=0.01, epsilon=1e-08, decay=0.0
+      Training:   loss: 2.6709,         acc: 0.3578  
+      Validation: loss: 3.32616204948,  acc: 0.2685
