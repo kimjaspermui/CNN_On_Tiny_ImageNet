@@ -201,4 +201,4 @@ VGG-like Adagrad {lr: 1e-3, epoch: 100}
 0.2063$3.70069392929
 0.205$3.70417159233
 0.2036$3.70618905792
-Test Accuracy: 20.36%
+Test Accuracy: 20.48%

@@ -201,4 +201,4 @@ VGG-like Adadelta {lr: 0.5, epoch: 100}
 0.27095$3.87937222176
 0.26815$3.79517574005
 0.2706$3.80988068542
-Test Accuracy: 27.06%
+Test Accuracy: 26.15%
